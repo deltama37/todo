@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "118521733135",
+    "firebase_url": "https://flutter-todo-89774.firebaseio.com",
+    "project_id": "flutter-todo-89774",
+    "storage_bucket": "flutter-todo-89774.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118521733135:android:06749fa44bf12a8bfa837a",
+        "android_client_info": {
+          "package_name": "net.deltama.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118521733135-u8ep2gr7hhn6uimq15sba84pcqiekrbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGJF9DyxbX6AVw8DS8ITma6FE6wn7Yrpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118521733135-u8ep2gr7hhn6uimq15sba84pcqiekrbu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "118521733135-rvab8irv3psv5vt4ca6h54vnbadgv1jq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.deltama.todo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
