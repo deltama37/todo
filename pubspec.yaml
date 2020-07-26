@@ -19,6 +19,7 @@ dependencies:
   provider:
   firebase_core:
   cloud_firestore:
+  uuid:
 
 dev_dependencies:
   flutter_test:
